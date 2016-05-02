@@ -1,0 +1,18 @@
+{
+  "name": "snippet-translator-plugin",
+  "version": "0.0.1",
+  "description": "translated bundles for webpack",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennethkufluk/snippet-translator-plugin.git"
+  },
+  "author": "Kenneth Kufluk <kenneth@kufluk.com>",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "devDependencies": {
+  }
+}
